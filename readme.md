@@ -4,7 +4,7 @@ A viral browser game built for the Claude Community Hackathon — Snake meets Wo
 
 ## 🎮 Play It Now
 
-**[Live Demo →](https://jesses-fables.github.io/Claude-Community-Snake-word-sphere/)**
+**[Live Demo →](https://previousdolphin.github.io)**
 
 ## The Hook
 
@@ -63,4 +63,4 @@ Built for the **[Claude Community Hackathon](https://claudecode.community/hackat
 
 ---
 
-**Created by Jesse Do** — [GitHub](https://github.com/jesses-fables) | [Claude Community](https://claudecode.community)
+**Created by Jesse Do** — [GitHub](https://github.com/previousdolphin) | for [Claude Community](https://claudecode.community)
