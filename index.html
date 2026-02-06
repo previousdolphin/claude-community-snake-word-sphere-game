@@ -1768,8 +1768,8 @@ function updateKeyboardDirection() {
     let x = 0, y = 0;
     if (keysDown['ArrowLeft'] || keysDown['a']) x += 1;
     if (keysDown['ArrowRight'] || keysDown['d']) x -= 1;
-    if (keysDown['ArrowUp'] || keysDown['w']) y += 1;
-    if (keysDown['ArrowDown'] || keysDown['s']) y -= 1;
+    if (keysDown['ArrowUp'] || keysDown['w']) y -= 1;
+    if (keysDown['ArrowDown'] || keysDown['s']) y += 1;
     if (x !== 0 || y !== 0) {
         state.targetDirection.x = x;
         state.targetDirection.y = y;
